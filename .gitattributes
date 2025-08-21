@@ -1,0 +1,10 @@
+*      text eol=lf
+*.rb   text eol=lf
+*.el   text eol=lf
+*.sh   text eol=lf
+*.md   text eol=lf
+*.txt   text eol=lf
+*.bat  text eol=crlf
+*.jpg  binary
+*.png  binary
+*.pdf  binary
